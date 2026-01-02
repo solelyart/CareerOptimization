@@ -6,6 +6,22 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [Day 1: Monday - Foundation & Decisions](#-day-1-monday---foundation--decisions)
+- [Day 2: Tuesday - Upwork Deep Dive](#-day-2-tuesday---upwork-deep-dive)
+- [Day 3: Wednesday - LinkedIn Optimization](#-day-3-wednesday---linkedin-optimization)
+- [Day 4: Thursday - Braintrust, Indeed, Wyzant](#-day-4-thursday---braintrust-indeed-wyzant)
+- [Day 5: Friday - Network Outreach Campaign](#-day-5-friday---network-outreach-campaign)
+- [Day 6: Saturday - Weekend Proposal Blitz](#-day-6-saturday---weekend-proposal-blitz)
+- [Day 7: Sunday - Week 1 Review & Planning](#-day-7-sunday---week-1-review--planning)
+- [Week 1 Success Metrics](#-week-1-success-metrics)
+- [Week 1 Troubleshooting](#-week-1-troubleshooting)
+- [Week 1 Complete! Next Steps](#-week-1-complete-next-steps)
+- [Key Takeaways from Week 1](#-key-takeaways-from-week-1)
+
+---
+
 ## 🌅 Day 1: Monday - Foundation & Decisions
 
 **Focus:** Make critical decisions, read key documents, set up workspace

@@ -6,6 +6,28 @@
 
 ---
 
+## 📋 Table of Contents
+
+1. [Optimization Checklist](#-optimization-checklist)
+2. [Profile Photo & Banner](#1-profile-photo--banner)
+3. [Headline (220 characters max)](#2-headline-220-characters-max)
+4. [About Section (1,300-2,000 characters)](#3-about-section-1300-2000-characters)
+5. [Featured Section](#4-featured-section)
+6. [Experience Section](#5-experience-section)
+7. [Skills Section](#6-skills-section)
+8. [Certifications Section](#7-certifications-section)
+9. [Education Section](#8-education-section)
+10. [Custom LinkedIn URL](#9-custom-linkedin-url)
+11. [LinkedIn Services Marketplace](#10-linkedin-services-marketplace)
+12. [Settings & Privacy Optimizations](#11-settings--privacy-optimizations)
+13. [Content Strategy for Maximum Visibility](#12-content-strategy-for-maximum-visibility)
+14. [Networking Strategy](#13-networking-strategy)
+15. [Recommendations Strategy](#14-recommendations-strategy)
+16. [Tracking Your LinkedIn Success](#15-tracking-your-linkedin-success)
+17. [Next Steps: Your 7-Day LinkedIn Makeover](#next-steps-your-7-day-linkedin-makeover)
+
+---
+
 ## 📋 Optimization Checklist
 
 Before we begin, here's your complete LinkedIn optimization checklist:
@@ -757,6 +779,6 @@ Kristen
 
 ---
 
-**Last Updated:** January 2, 2026  
+**Last Updated:** January 2, 2026
 **For:** Kristen Blanks  
 **Status:** Ready to Implement

@@ -13,6 +13,29 @@
 
 ---
 
+## 📋 Table of Contents
+
+1. [Executive Summary](#1-executive-summary)
+2. [Project Scope](#2-project-scope)
+3. [Detailed Deliverables](#3-detailed-deliverables)
+   - [3.1 Account Setup & Configuration](#31-account-setup--configuration-all-15-platforms)
+   - [3.2 Platform-Specific Requirements](#32-platform-specific-requirements)
+4. [Pre-Written Content & Resources](#4-pre-written-content--resources)
+5. [Project Timeline](#5-project-timeline)
+6. [Payment Terms](#6-payment-terms)
+7. [Contractor Responsibilities](#7-contractor-responsibilities)
+8. [Client Responsibilities](#8-client-responsibilities)
+9. [Communication & Reporting](#9-communication--reporting)
+10. [Quality Assurance](#10-quality-assurance)
+11. [Acceptance Criteria](#11-acceptance-criteria)
+12. [Intellectual Property](#12-intellectual-property)
+13. [Confidentiality](#13-confidentiality)
+14. [Termination Clause](#14-termination-clause)
+15. [Additional Terms](#15-additional-terms)
+16. [Signatures](#16-signatures)
+
+---
+
 ## 1. Executive Summary
 
 This Statement of Work outlines a comprehensive engagement to create, optimize, and launch professional profiles for Kristen Blanks across 15 strategic online platforms. The goal is to establish a consistent, compelling, and highly optimized online presence that will generate freelance opportunities, job offers, consulting engagements, and passive income streams.
@@ -1048,7 +1071,7 @@ Phone: (901) 277-5597
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** January 2, 2026  
+**Last Updated:** January 2, 2026
 **Status:** Ready for Contractor Review and Signature
 
 ---
