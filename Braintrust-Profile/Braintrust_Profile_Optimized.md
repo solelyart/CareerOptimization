@@ -25,37 +25,40 @@ Here is the optimized content for your Braintrust profile, designed for maximum 
 **Primary Role:** Business Systems Analyst
 
 **Secondary Roles:**
-*   Salesforce Consultant
-*   Product Manager
-*   IT Project Manager
-*   Process Improvement Specialist
+
+- Salesforce Consultant
+- Product Manager
+- IT Project Manager
+- Process Improvement Specialist
 
 ---
 
 ## Skills
 
-*Add these skills to your profile, ensuring the most critical ones are listed first.*
+_Add these skills to your profile, ensuring the most critical ones are listed first._
 
 **Core Expertise:**
-*   Salesforce CRM
-*   Business Analysis
-*   Agile Project Management (Scrum & Kanban)
-*   Process Automation
-*   ERP Systems Integration
-*   Contract Lifecycle Management (CLM)
-*   Requirements Gathering & Analysis
-*   Product Roadmapping
+
+- Salesforce CRM
+- Business Analysis
+- Agile Project Management (Scrum & Kanban)
+- Process Automation
+- ERP Systems Integration
+- Contract Lifecycle Management (CLM)
+- Requirements Gathering & Analysis
+- Product Roadmapping
 
 **Technical & Platform Skills:**
-*   SQL
-*   Jira & Confluence
-*   DocuSign CLM
-*   Ironclad CLM
-*   Zendesk
-*   Python
-*   JavaScript
-*   HTML5/CSS
-*   UML & BPMN
+
+- SQL
+- Jira & Confluence
+- DocuSign CLM
+- Ironclad CLM
+- Zendesk
+- Python
+- JavaScript
+- HTML5/CSS
+- UML & BPMN
 
 ---
 
@@ -77,31 +80,31 @@ Here is the optimized content for your Braintrust profile, designed for maximum 
 
 ---
 
-## I help the community with...
+## I help the community with
 
-*Select the services that best align with your offerings.*
+_Select the services that best align with your offerings._
 
-*   **Salesforce Strategy & Implementation:** Advising on Salesforce CRM architecture, leading migration projects, and optimizing existing instances for performance and usability.
-*   **Business Process Optimization:** Analyzing and re-engineering workflows to eliminate inefficiencies, reduce manual effort, and improve operational scalability.
-*   **Agile Project & Product Management:** Guiding teams through Agile ceremonies, managing backlogs in Jira, and ensuring on-time delivery of high-quality software.
-*   **Full-Cycle Business Analysis:** Translating stakeholder needs into detailed technical requirements, creating user stories, and facilitating User Acceptance Testing (UAT).
+- **Salesforce Strategy & Implementation:** Advising on Salesforce CRM architecture, leading migration projects, and optimizing existing instances for performance and usability.
+- **Business Process Optimization:** Analyzing and re-engineering workflows to eliminate inefficiencies, reduce manual effort, and improve operational scalability.
+- **Agile Project & Product Management:** Guiding teams through Agile ceremonies, managing backlogs in Jira, and ensuring on-time delivery of high-quality software.
+- **Full-Cycle Business Analysis:** Translating stakeholder needs into detailed technical requirements, creating user stories, and facilitating User Acceptance Testing (UAT).
 
 ---
 
 ## Certificates
 
-*As previously noted, your resume does not list certifications. This section is a prime opportunity for growth. Adding certifications like the following would significantly strengthen your profile:*
+_As previously noted, your resume does not list certifications. This section is a prime opportunity for growth. Adding certifications like the following would significantly strengthen your profile:_
 
-*   Salesforce Certified Administrator
-*   Salesforce Certified Business Analyst
-*   IIBA Entry Certificate in Business Analysis (ECBA)
-*   Certified ScrumMaster (CSM) or Professional Scrum Master (PSM)
+- Salesforce Certified Administrator
+- Salesforce Certified Business Analyst
+- IIBA Entry Certificate in Business Analysis (ECBA)
+- Certified ScrumMaster (CSM) or Professional Scrum Master (PSM)
 
 ---
 
 ## Work History
 
-*This section should mirror the optimized resume content for consistency.*
+_This section should mirror the optimized resume content for consistency._
 
 **Business Systems Analyst** | Advanced Sterilization Products (ASP) | Jan 2025 – Present
 

@@ -25,7 +25,7 @@ jobs:
           config: '.cspell.json'
           files: '**/*.md'
           incremental_files_only: false
-          inline: true
+          inline: error
           strict: false
           
       - name: Comment on PR (if applicable)

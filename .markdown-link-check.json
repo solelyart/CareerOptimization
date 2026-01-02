@@ -14,6 +14,18 @@
     },
     {
       "pattern": "\\[your-"
+    },
+    {
+      "pattern": "^\\.git/"
+    },
+    {
+      "pattern": "^https://www\\.linkedin\\.com/"
+    },
+    {
+      "pattern": "^https://www\\.flexjobs\\.com/"
+    },
+    {
+      "pattern": "^https://www\\.belaysolutions\\.com/careers/"
     }
   ],
   "replacementPatterns": [
