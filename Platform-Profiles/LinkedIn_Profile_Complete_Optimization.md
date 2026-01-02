@@ -47,6 +47,37 @@ Before we begin, here's your complete LinkedIn optimization checklist:
 - Overly filtered or edited
 - Outdated photo from 5+ years ago
 
+**If You Don't Have a Professional Headshot:**
+
+**Option 1: DIY Smartphone Photo (Free)**
+- Find friend/family member to take photo
+- Stand near window with natural light (10 AM - 3 PM best)
+- Use portrait mode on smartphone (blurs background)
+- Take 20-30 shots with different expressions
+- Choose best one, crop to square
+- Use free editor (Snapseed app) to adjust brightness/contrast slightly
+
+**Option 2: Professional Photographer ($100-300)**
+- Search Google: "[Your city] professional headshot photographer"
+- Many offer "LinkedIn headshot packages" ($100-150 for 15 min session)
+- You'll get 5-10 edited photos to choose from
+- Worth the investment - photo is first impression
+
+**Option 3: AI Headshot Services ($20-50)**
+- Try: LinkedIn's built-in AI photo enhancer (free)
+- Or: Remini app ($5/week trial) - Enhances existing photo
+- Or: PhotoAI, Aragon, The Headshot ($20-40) - AI-generated from your selfies
+- Quality varies, but acceptable for quick solution
+
+**Photo Specifications:**
+- File format: JPG or PNG
+- Minimum size: 400 x 400 pixels
+- Recommended: 800 x 800 pixels (LinkedIn compresses to 400x400 anyway)
+- File size: Under 8 MB
+- Aspect ratio: 1:1 (square)
+
+---
+
 ### Custom Banner Image:
 
 **Option 1: DIY with Canva**
@@ -60,6 +91,60 @@ Text ideas:
 - "Business Systems Analyst | Salesforce Specialist | Agile PM"
 - "Transforming Business Processes Through Strategic Technology"
 - "Helping Companies Maximize Their Salesforce Investment"
+
+**Step-by-Step Banner Creation in Canva (Free):**
+
+1. Go to Canva.com, create free account
+2. Search templates: "LinkedIn banner"
+3. Choose professional template (avoid overly flashy ones)
+4. Customize text with your headline or value proposition
+5. Color scheme recommendations:
+   - **Professional Blue:** #0077B5 (LinkedIn blue) + white + dark gray
+   - **Tech/Modern:** Navy blue + electric blue + white
+   - **Trustworthy:** Dark blue + gold/amber + white
+6. Add subtle graphics (optional):
+   - Technology icons (gear, network nodes)
+   - Salesforce cloud logo (if certified)
+   - Abstract business imagery
+7. Keep 20% margins on top/bottom (avoid text cutoff on mobile)
+8. Download as PNG
+9. Upload to LinkedIn (click pencil icon on banner area)
+
+**Banner Specifications:**
+- Dimensions: 1584 x 396 pixels (exact)
+- File format: JPG or PNG
+- File size: Under 8 MB
+- Text safe zone: Keep text in center 1200 x 300px area (mobile doesn't crop)
+
+**Pro Tip:** Your banner + headline + photo should tell your "story" in 3 seconds:
+- Photo: Professional, approachable
+- Banner: What you do / Value you provide
+- Headline: Specific expertise and target audience
+
+**Free Banner Resources:**
+- Canva.com - 10,000+ LinkedIn banner templates
+- Venngage.com - Professional business banners
+- Unsplash.com - Free high-quality background images
+- Flaticon.com - Free icons for customization
+
+**Banner Content Ideas:**
+
+**Option A: Value Proposition**
+> "Driving 35% Efficiency Gains Through Salesforce Optimization | Business Systems Analyst"
+
+**Option B: Social Proof**
+> "Trusted by Fortune 500 Companies | Salesforce CRM Expert | Process Optimization Specialist"
+
+**Option C: Niche Focus**
+> "Salesforce Solutions for Healthcare & Manufacturing | Business Systems Analyst"
+
+**Option D: Minimalist Professional** (Just your name + title)
+> "Kristen Blanks | Business Systems Analyst & Salesforce Consultant"
+
+**Option E: Call to Action**
+> "Let's Optimize Your Salesforce CRM | Free 30-Min Consultation | Book Below 👇"
+
+**Recommendation:** Start with Option D (minimalist), update to Option A or E after first few clients.
 
 ---
 
