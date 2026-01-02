@@ -1,3 +1,13 @@
+# Platform Setup Project Checklist
+
+**Purpose:** Complete task list for setting up all 15 professional platforms  
+**Use For:** DIY setup or contractor project management  
+**Last Updated:** January 2, 2026
+
+---
+
+## Master Checklist
+
 - [ ] **Phase 1: Kick-off & Information Gathering**
     - [ ] Client to provide all necessary documents (Resume/CV, Bio, Headshot, Portfolio, etc.)
     - [ ] Contractor to securely store all client information
