@@ -32,6 +32,9 @@
     },
     {
       "pattern": "Contractor_Evaluation_Rubric\\.md"
+    },
+    {
+      "pattern": "linkedin-makeover\\.com"
     }
   ],
   "replacementPatterns": [
