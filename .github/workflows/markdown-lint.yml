@@ -1,0 +1,39 @@
+name: Markdown Lint
+
+on:
+  push:
+    branches: [ main, master, cursor/** ]
+    paths:
+      - '**.md'
+  pull_request:
+    branches: [ main, master ]
+    paths:
+      - '**.md'
+  workflow_dispatch:
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Run markdownlint
+        uses: articulate/actions-markdownlint@v1
+        with:
+          config: .markdownlint.json
+          files: '**/*.md'
+          ignore: node_modules
+          
+      - name: Comment on PR (if applicable)
+        if: failure() && github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '⚠️ Markdown linting failed. Please fix formatting issues before merging.'
+            })
