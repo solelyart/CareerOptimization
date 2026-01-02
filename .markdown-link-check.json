@@ -19,13 +19,19 @@
       "pattern": "^\\.git/"
     },
     {
-      "pattern": "^https://www\\.linkedin\\.com/"
+      "pattern": "linkedin\\.com"
     },
     {
-      "pattern": "^https://www\\.flexjobs\\.com/"
+      "pattern": "flexjobs\\.com"
     },
     {
-      "pattern": "^https://www\\.belaysolutions\\.com/careers/"
+      "pattern": "belaysolutions\\.com"
+    },
+    {
+      "pattern": "theprofessorisin\\.com"
+    },
+    {
+      "pattern": "Contractor_Evaluation_Rubric\\.md"
     }
   ],
   "replacementPatterns": [

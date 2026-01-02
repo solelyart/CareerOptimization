@@ -126,7 +126,7 @@ pie title Month 3 Time Allocation
 **Monday-Wednesday: Core Freelance Platforms**
 
 | Day | Tasks | Time | Success Metrics |
-|-----|-------|------|-----------------|
+| ----- | ------- | ------ | ---------------- |
 | **Day 1** | • Set up Braintrust profile<br>• Set up LinkedIn Services Marketplace<br>• Join relevant LinkedIn groups | 4-6 hrs | Profiles 60% complete |
 | **Day 2** | • Complete Upwork profile to 100%<br>• Upload portfolio items<br>• Set availability | 4-6 hrs | Upwork shows 100% complete |
 | **Day 3** | • Set up Indeed & FlexJobs<br>• Configure 5 job alerts<br>• Optimize resume for ATS | 3-4 hrs | Job alerts sending daily emails |
@@ -134,7 +134,7 @@ pie title Month 3 Time Allocation
 **Thursday-Friday: Education & Niche Platforms**
 
 | Day | Tasks | Time | Success Metrics |
-|-----|-------|------|-----------------|
+| ----- | ------- | ------ | ---------------- |
 | **Day 4** | • Set up Wyzant tutor profile<br>• Set up MentorCruise mentor profile<br>• Set pricing for tutoring/mentoring | 3-4 hrs | Profiles live, calendar open |
 | **Day 5** | • Set up Udemy instructor account<br>• Set up Teachable school<br>• Create first course outline | 3-4 hrs | Instructor accounts approved |
 
@@ -146,6 +146,7 @@ pie title Month 3 Time Allocation
 - Ask friend to review for typos/clarity
 
 **Week 1 Deliverables:**
+
 - [ ] 10 platforms live (Upwork, Braintrust, LinkedIn, Indeed, FlexJobs, Wyzant, MentorCruise, Udemy, Teachable, Chegg)
 - [ ] Professional photo uploaded to all
 - [ ] Consistent bio across platforms
@@ -159,7 +160,7 @@ pie title Month 3 Time Allocation
 **Monday-Wednesday: Premium Consulting Platforms**
 
 | Day | Tasks | Time | Success Metrics |
-|-----|-------|------|-----------------|
+| ----- | ------- | ------ | ---------------- |
 | **Day 8** | • Apply to GLG expert network<br>• Apply to Catalant<br>• Apply to FoundHQ | 3-4 hrs | Applications submitted |
 | **Day 9** | • Apply to Toptal (rigorous screening)<br>• Prepare for possible screening interviews | 2-3 hrs | Application submitted |
 | **Day 10** | • Submit 3 Upwork proposals (start with small projects $500-$2,000)<br>• Submit 2 Braintrust applications | 3-4 hrs | 5 proposals sent |
@@ -167,7 +168,7 @@ pie title Month 3 Time Allocation
 **Thursday-Friday: Job Boards & Active Applications**
 
 | Day | Tasks | Time | Success Metrics |
-|-----|-------|------|-----------------|
+| ----- | ------- | ------ | ---------------- |
 | **Day 11** | • Apply to 5 jobs on Indeed<br>• Apply to 5 jobs on FlexJobs<br>• Customize cover letters for each | 3-4 hrs | 10 applications sent |
 | **Day 12** | • Apply to 3 adjunct teaching positions (HigherEdJobs, UMGC)<br>• Set up Teachable course landing page | 3-4 hrs | Academic apps submitted |
 
@@ -179,6 +180,7 @@ pie title Month 3 Time Allocation
 - Batch create social media content for next week
 
 **Week 2 Deliverables:**
+
 - [ ] 15+ proposals/applications submitted
 - [ ] First LinkedIn article published
 - [ ] Video profile created
@@ -192,7 +194,7 @@ pie title Month 3 Time Allocation
 **Monday-Wednesday: Follow-Up & Relationship Building**
 
 | Day | Tasks | Time | Success Metrics |
-|-----|-------|------|-----------------|
+| ----- | ------- | ------ | ---------------- |
 | **Day 15** | • Follow up on all proposals sent Week 2<br>• Personalize follow-up messages<br>• Update proposals if no response | 2-3 hrs | 5-10 follow-ups sent |
 | **Day 16** | • Network on LinkedIn (connect with 20 potential clients)<br>• Comment on 10 posts in your industry<br>• Share your published article | 1-2 hrs | 20 new connections |
 | **Day 17** | • Join 3 Slack communities for freelancers/BAs<br>• Introduce yourself<br>• Offer value (answer questions) | 1-2 hrs | Active in communities |
@@ -200,7 +202,7 @@ pie title Month 3 Time Allocation
 **Thursday-Friday: More Proposals & Optimization**
 
 | Day | Tasks | Time | Success Metrics |
-|-----|-------|------|-----------------|
+| ----- | ------- | ------ | ---------------- |
 | **Day 18** | • Submit 5 new Upwork proposals (increase variety)<br>• Submit 3 Braintrust applications | 3-4 hrs | 8 proposals sent |
 | **Day 19** | • Optimize profiles based on learnings<br>• A/B test different headlines/bios<br>• Apply to 5 more jobs | 3-4 hrs | Profiles updated |
 
@@ -213,6 +215,7 @@ pie title Month 3 Time Allocation
 - Send thank you emails after consultations
 
 **Week 3 Deliverables:**
+
 - [ ] 15-20 total proposals/apps this week
 - [ ] First client consultation completed (goal)
 - [ ] Growing LinkedIn presence (30+ new connections)
@@ -226,7 +229,7 @@ pie title Month 3 Time Allocation
 **Monday-Wednesday: Land First Project**
 
 | Day | Tasks | Time | Success Metrics |
-|-----|-------|------|-----------------|
+| ----- | ------- | ------ | ---------------- |
 | **Day 22** | • Follow up on all consultations<br>• Send proposals to interested prospects<br>• Negotiate terms for first project | 2-4 hrs | Contract negotiations |
 | **Day 23** | • Start first project (even if small!)<br>• Set up project management (Trello/Asana)<br>• Over-communicate with client | Varies | First project started ✅ |
 | **Day 24** | • Continue first project<br>• Send daily updates to client<br>• Submit 3 more proposals to keep pipeline full | Varies | Project 25% complete |
@@ -234,7 +237,7 @@ pie title Month 3 Time Allocation
 **Thursday-Friday: Rinse & Repeat**
 
 | Day | Tasks | Time | Success Metrics |
-|-----|-------|------|-----------------|
+| ----- | ------- | ------ | ---------------- |
 | **Day 25** | • Continue first project<br>• Submit 5 new proposals<br>• Schedule tutoring sessions if any inquiries | Varies | Project 50% complete |
 | **Day 26** | • Continue first project<br>• Apply to 10 jobs<br>• Publish second LinkedIn article | Varies | Multiple activities |
 
@@ -434,7 +437,7 @@ pie title Month 3 Time Allocation
 **Platform Performance:**
 
 | Platform | Leads | Projects | Revenue | Notes |
-|----------|-------|----------|---------|-------|
+| ---------- | ------- | ---------- | --------- | ------- |
 | Upwork | | | $ | |
 | Braintrust | | | $ | |
 | LinkedIn | | | $ | |
