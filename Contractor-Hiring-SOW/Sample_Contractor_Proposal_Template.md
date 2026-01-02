@@ -6,7 +6,7 @@
 
 ---
 
-# Proposal: 15-Platform Professional Profile Setup
+## Proposal: 15-Platform Professional Profile Setup
 
 **Submitted To:** Kristen Blanks  
 **Submitted By:** [Contractor Name]  
