@@ -1,0 +1,48 @@
+# Sensitive Information
+*.credentials
+*_FILLED.md
+Client_Information_Intake_Form_COMPLETED.md
+credentials_manager_*.xlsx
+passwords.txt
+
+# Personal Data
+*.ssn
+*.tax
+*_personal_info.txt
+
+# API Keys and Tokens
+.env
+.env.local
+*.key
+*.pem
+api_keys.txt
+
+# Temporary Files
+*.tmp
+*.temp
+~$*
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build and Distribution
+dist/
+build/
+*.log
+node_modules/
+
+# PDF Drafts (keep only final PDFs)
+*_draft.pdf
+*_v1.pdf
+*_v2.pdf
+
+# Backup Files
+*.bak
+*.backup
+*_backup_*
