@@ -10,6 +10,19 @@
 
 This folder contains everything you need to run a successful 10-hour VA trial:
 
+### 0. **VA_Trial_Recruiter_Brief.md** ⭐ START HERE
+**For:** Sending to VA services, recruiters, or individual VAs  
+**Purpose:** Concise 2-page overview of trial scope, budget, timeline, and ideal candidate  
+**When to Use:** First contact with recruiters or when posting on Upwork/Fiverr  
+**Key Info:**
+- One-page summary of entire project
+- Ideal candidate profile (must-haves vs. nice-to-haves)
+- 3 pricing options
+- Quick FAQ for recruiters
+- Clear submission instructions
+
+---
+
 ### 1. **10_Hour_VA_Trial_Proposal.md**
 **For:** Sending to VA services/freelancers you're considering  
 **Purpose:** Outlines the trial structure, pricing options, and what's included  
@@ -87,8 +100,12 @@ This folder contains everything you need to run a successful 10-hour VA trial:
 - Freelancer.com
 - LinkedIn (search "virtual assistant")
 
-**Initial Outreach Message:**
+**Initial Outreach:**
 
+**Option A: Send Recruiter Brief (Recommended)**
+Simply send **VA_Trial_Recruiter_Brief.md** to recruiters or VA services. It has everything they need in 2 pages.
+
+**Option B: Quick Message to Individual VAs**
 > "Hi [VA Name],
 >
 > I'm looking for a detail-oriented VA to help set up professional profiles on 15 platforms. Before committing to the full project, I'd like to start with a 10-hour trial covering 3 platforms (Indeed, Wyzant, LinkedIn).
@@ -98,7 +115,9 @@ This folder contains everything you need to run a successful 10-hour VA trial:
 > - $150-200 flat fee (or $20-25/hour)
 > - 3 platforms to complete
 >
-> Are you interested? If so, I have a few questions to ensure we're a good fit."
+> I've attached a recruiter brief with full details. Are you interested? If so, I have a few questions to ensure we're a good fit."
+>
+> [Attach: VA_Trial_Recruiter_Brief.md]
 
 ---
 
@@ -426,6 +445,7 @@ Industry data shows:
 ## 📂 Quick Reference
 
 **Key Files:**
+0. **START HERE:** `VA_Trial_Recruiter_Brief.md` (send to recruiters first)
 1. Proposal: `10_Hour_VA_Trial_Proposal.md`
 2. SOW: `10_Hour_VA_Trial_SOW.md`
 3. Screening: `VA_Trial_Evaluation_Questions.md`
