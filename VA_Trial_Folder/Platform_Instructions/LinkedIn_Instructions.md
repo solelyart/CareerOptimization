@@ -1,4 +1,4 @@
-# LinkedIn Profile and Services Marketplace Setup (Priority: CRITICAL)
+# LinkedIn Profile and Services Marketplace Setup (Priority: LOW)
 
 **Objective:** Fully optimize the main LinkedIn profile and create a compelling Services Marketplace page.
 

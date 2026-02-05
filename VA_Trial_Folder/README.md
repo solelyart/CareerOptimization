@@ -16,21 +16,22 @@ Welcome to the VA Trial Folder. This folder contains everything you need to comp
 | `Platform_Instructions/` | Detailed instructions for each of the 14 platforms. |
 | `Supporting_Materials/` | Assets including headshots, resume, and portfolio materials. |
 
-## Priority Overview
+## Priority Overview (Updated)
 
 The platforms are prioritized as follows to maximize the value of the 10-hour trial:
 
 | Priority | Platform | Time Allocation |
 | :--- | :--- | :--- |
-| **CRITICAL** | LinkedIn Services Marketplace | 2.5 hours |
-| **HIGH** | Braintrust | 2.0 hours |
+| **CRITICAL** | Braintrust | 2.5 hours |
 | **MEDIUM** | Toptal | 1.5 hours |
 | **MEDIUM** | Indeed | 1.0 hour |
 | **MEDIUM** | FlexJobs | 0.5 hours |
 | **MEDIUM** | Wyzant | 1.0 hour |
 | **MEDIUM** | MentorCruise | 1.0 hour |
 | **MEDIUM** | Udemy | 0.5 hours |
-| **LOW** | Teachable, HigherEdJobs, Chegg, Coursera, BELAY, UMGC | Not in 10-hour scope |
+| **MEDIUM** | Teachable | 1.0 hour |
+| **MEDIUM** | HigherEdJobs | 1.0 hour |
+| **LOW** | LinkedIn Services Marketplace, Chegg, Coursera, BELAY, UMGC | Not in 10-hour scope |
 
 ## Key Resources
 

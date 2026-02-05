@@ -1,4 +1,4 @@
-# Braintrust Profile Setup (Priority: HIGH)
+# Braintrust Profile Setup (Priority: CRITICAL)
 
 **Objective:** Create a compelling, keyword-rich, and results-focused profile on Braintrust to attract high-value freelance opportunities.
 
